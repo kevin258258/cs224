@@ -1,3 +1,9 @@
 .vscode/
 .ipynb_checkpoints/
 .python-version
+.venv/
+__MACOSX/
+.DS_Store
+__pycache__/
+*.py[cod]
+a2(1)/a2/results/
